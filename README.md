@@ -2,6 +2,7 @@
 # 从零开始第一次购买加密货币
 # 比特币、USDT
 # 币安交易所注册、买币全过程
+# <a href = "https://www.binance.com/zh-CN/square/post/8431143928729">币安注册</a>
 
 ## **目录**
 - 1、全球领先的加密货币交易所排行
@@ -110,4 +111,6 @@ USDT是区块链上数字化的美元，币圈所有的币都是和USDT组成交
 
 部分国家的法币，如美元、日元、韩元、土耳其里拉等，可以直接购买加密货币。
 
-
+ <a href = "https://www.binance.com/zh-CN/square/post/8431143928729">注册币安</a>
+ 
+币安注册详细文字版教程：https://www.binance.com/zh-CN/square/post/8431143928729
